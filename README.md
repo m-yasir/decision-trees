@@ -1,4 +1,6 @@
-# The repository includes implementation of the following versions of decision trees:
+# Decision Trees
+
+#### The repository includes implementation of the following versions of decision trees:
 
 - CART (Classification and regression trees)
 - ID3 (Iterative Dichotomiser 3) trees
